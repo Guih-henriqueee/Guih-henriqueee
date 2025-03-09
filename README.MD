@@ -15,7 +15,7 @@ Atualmente sou Analista de Desenvolvimento na Inpower, responsável pela integra
 
 Além disso, participo da implementação de novos Marketplaces e produtos, identificando necessidades durante a fase de integração para otimizar e escalar funcionalidades.
 
-De forma indireta essa posição na inpower me trouxe a oportunidade de desenvolver meu conhecimento como desenvolvedor realizando analise de erros, falhas ou bugs e enviado para a equipe de desenvolvimento para correção, além de realizar melhorias e novas funcionalidades. 
+De forma indireta essa posição na inpower me trouxe a oportunidade de desenvolver meu conhecimento como desenvolvedor realizando analise de erros, falhas ou bugs e enviando para a equipe de desenvolvimento para correção, além de realizar melhorias e novas funcionalidades. 
 
 
 

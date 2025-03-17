@@ -1,29 +1,24 @@
+---
+<h1 align="center">👋 Olá, eu sou Guilherme Martins!</h1>  
+<h3 align="center">👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas</h3>  
 
-
-
-<h1 align="center">👋 Olá, eu sou Guilherme Martins!</h1>
-<h3 align="center">👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guih-henriquee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />
-</p>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=guih-henriquee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />  
+</p>  
 
 ---
 
 ## 🚀 Sobre Mim  
-Atualmente sou Analista de Desenvolvimento na Inpower, responsável pela integração do ERP SAP Business One com Marketplaces, HUBs e Operadores Logísticos. Trabalho com integração de dados, desenvolvimento de automações, scripts e suporte aos usuários.
+Atualmente sou Analista de Desenvolvimento na Inpower, responsável pela integração do ERP SAP Business One com Marketplaces, HUBs e Operadores Logísticos. Trabalho com integração de dados, desenvolvimento de automações, scripts e suporte aos usuários.  
 
-Além disso, participo da implementação de novos Marketplaces e produtos, identificando necessidades durante a fase de integração para otimizar e escalar funcionalidades.
+Além disso, participo da implementação de novos Marketplaces e produtos, identificando necessidades durante a fase de integração para otimizar e escalar funcionalidades.  
 
-De forma indireta essa posição na inpower me trouxe a oportunidade de desenvolver meu conhecimento como desenvolvedor realizando analise de erros, falhas ou bugs e enviando para a equipe de desenvolvimento para correção, além de realizar melhorias e novas funcionalidades. 
+Estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, focado no aprimoramento de habilidades para desenvolvimento **Full Stack**. Minha experiência na Inpower tem sido essencial para fortalecer esses conhecimentos, especialmente no contexto de integrações complexas.  
 
-
-
-Curiosidade:
-- Meu primeiro cargo na Inpower foi Atendente de SAC e queria ser Web Designer, mas a vida me trouxe até aqui. Letras coloridas e noites em claro porque faltou um misero ponto e virgula em algum lugar.
-- Cursando Analise e Desenvolvimento de Sistemas - Universidade Anhembi Morumbi
-- Designer e Truqueiro nas horas vagas
-- Jogo Counter Strike
+### 🔍 Curiosidades:  
+- Meu primeiro cargo na Inpower foi **Atendente de SAC**, e inicialmente eu queria ser Web Designer, mas a vida me trouxe até aqui. Hoje, enfrento noites em claro por causa de um simples ponto e vírgula.  
+- **Designer e truqueiro** nas horas vagas.  
+- **Gamer:** Jogo Counter-Strike.  
 
 ---
 
@@ -40,7 +35,7 @@ Curiosidade:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+</div>  
 
 ---
 
@@ -48,20 +43,24 @@ Curiosidade:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guih-henriqueee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih-henriqueee&layout=compact&langs_count=7&theme=dark"/>
-</div>
+</div>  
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=guih-henriqueee&theme=dark" alt="GitHub Streak" />
-</div>
+</div>  
 
 ---
 
 ## 🌎 Conecte-se Comigo  
-<p align="center">
-  <a href="https://linkedin.com/in/guih-henriquee" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gmartinsdevelop@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<p align="center">  
+  <a href="https://linkedin.com/in/guih-henriquee" target="blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
+  </a>  
+  <a href="mailto:gmartinsdevelop@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+  </a>  
+</p>  
+
+---
+
+Ficou como você queria? Alguma outra alteração? 😊

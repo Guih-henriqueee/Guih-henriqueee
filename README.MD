@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=guih-henriquee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />  
 </p>  
 
----
+
 
 ## 🚀 Sobre Mim  
 
@@ -15,14 +15,13 @@ Atuo diretamente na gestão e validação de integrações, implementação de m
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, onde venho aprofundando meus conhecimentos para atuar como desenvolvedor **Full Stack**.
 
----
 
 ### 🔍 Curiosidades:  
 - Comecei na Inpower como **Atendente de SAC**, com o sonho de ser Web Designer. A vida me levou à programação — hoje, luto contra pontos e vírgulas com paixão!  
 - **Designer e truqueiro** nas horas vagas.  
 - **Gamer nas madrugadas:** CS é minha terapia.
 
----
+
 
 ## 💼 Experiência
 
@@ -33,7 +32,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade An
 - Atuação com QA, testes funcionais e validação de processos sistêmicos para garantir estabilidade e escalabilidade das soluções;  
 - Capacitação de equipes operacionais e técnicas, com suporte especializado em ERP e integrações de sistemas.
 
----
+
 
 ## 🧠 Habilidades Técnicas
 
@@ -52,7 +51,6 @@ Docker, Power BI, scripts de automação
 **Gestão & Processos:**  
 Fluxo fiscal, operações multi-filiais, integração com operadores logísticos, e-commerce (B2C), testes de sistemas, melhorias e treinamentos  
 
----
 
 ## ⚙️ Tecnologias & Ferramentas
 
@@ -113,7 +111,7 @@ Fluxo fiscal, operações multi-filiais, integração com operadores logísticos
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </div>
 
----
+
 
 ## 📊 Estatísticas do GitHub  
 <div align="center">
@@ -125,7 +123,6 @@ Fluxo fiscal, operações multi-filiais, integração com operadores logísticos
   <img src="https://github-readme-streak-stats.herokuapp.com?user=guih-henriqueee&theme=dark" alt="GitHub Streak" />
 </div>  
 
----
 
 ## 🌎 Conecte-se Comigo  
 <p align="center">  

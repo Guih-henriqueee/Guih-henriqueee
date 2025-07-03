@@ -2,10 +2,10 @@
 <h3 align="center">👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas</h3>  
 
 <p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=guih-henriquee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />  
+  <img src="https://komarev.com/ghpvc/?username=guih-henriqueee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />  
 </p>  
 
-
+---
 
 ## 🚀 Sobre Mim  
 
@@ -15,47 +15,36 @@ Atuo diretamente na gestão e validação de integrações, implementação de m
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, onde venho aprofundando meus conhecimentos para atuar como desenvolvedor **Full Stack**.
 
+### 🔍 Curiosidades
 
-### 🔍 Curiosidades:  
-- Comecei na Inpower como **Atendente de SAC**, com o sonho de ser Web Designer. A vida me levou à programação — hoje, luto contra pontos e vírgulas com paixão!  
+- Comecei na Inpower como **Atendente de SAC**, com o sonho de ser Web Designer.  
+- A vida me levou à programação — hoje, luto contra pontos e vírgulas com paixão!  
 - **Designer e truqueiro** nas horas vagas.  
 - **Gamer nas madrugadas:** CS é minha terapia.
 
+---
 
+## 📈 GitHub em Números
 
-## 💼 Experiência
+<div align="center">
 
-- Gestão de projetos de integração de sistemas, automação de processos e otimização de fluxos operacionais;  
-- Implementação e sustentação de integrações entre SAP Business One, Skill Triple One, Addons, Marketplaces, HUBs e ERPs via APIs REST;  
-- Desenvolvimento de soluções com Python, Java, JavaScript (Node.js, React, TypeScript), além de scripts de automação e manipulação de dados;  
-- Experiência com MySQL, PostgreSQL, HANA DB, MariaDB e MongoDB, com foco em performance e segurança;  
-- Atuação com QA, testes funcionais e validação de processos sistêmicos para garantir estabilidade e escalabilidade das soluções;  
-- Capacitação de equipes operacionais e técnicas, com suporte especializado em ERP e integrações de sistemas.
+<a href="https://github.com/guih-henriqueee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guih-henriqueee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih-henriqueee&layout=compact&langs_count=7&theme=dark"/>
+</a>
 
+</div>  
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guih-henriqueee&theme=github-compact" alt="Gráfico de Contribuições" />
+</p>
+
+---
 
 ## 🧠 Habilidades Técnicas
 
-**ERP & Integração:**  
-SAP Business One, Skill Triple One, Addons, APIs REST, Marketplaces, HUBs  
-
-**Desenvolvimento:**  
-Python, Java, JavaScript (Node.js, React), TypeScript, HTML, CSS  
-
-**Bancos de Dados:**  
-MySQL, PostgreSQL, HANA DB, MariaDB, MongoDB  
-
-**Automação & Infraestrutura:**  
-Docker, Power BI, scripts de automação  
-
-**Gestão & Processos:**  
-Fluxo fiscal, operações multi-filiais, integração com operadores logísticos, e-commerce (B2C), testes de sistemas, melhorias e treinamentos  
-
-
-## ⚙️ Tecnologias & Ferramentas
-
-### Linguagens de Programação
-<div>
+### 🚀 Linguagens de Programação  
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -63,69 +52,66 @@ Fluxo fiscal, operações multi-filiais, integração com operadores logísticos
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+</p>
 
-### Frameworks & Bibliotecas
-<div>
+### ⚙️ Frameworks & Bibliotecas  
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff" />
-</div>
+</p>
 
-### Banco de Dados
-<div>
+### 🗄️ Banco de Dados  
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HANA_DB-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</p>
 
-### DevOps, Dados & Infraestrutura
-<div>
+### 🧪 Testes & APIs  
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### ⚙️ DevOps & Infraestrutura  
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</div>
+</p>
 
-### Testes & APIs
-<div>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-</div>
-
-### ERPs & Integrações
-<div>
-  <img src="https://img.shields.io/badge/SAP-0A6E38?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/API REST-6DB33F?style=for-the-badge&logo=fastapi&logoColor=white" />
-</div>
-
-### Versionamento & Colaboração
-<div>
+### 🔗 Versionamento & Colaboração  
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket%20Pipelines-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
+</p>
 
+---
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guih-henriqueee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih-henriqueee&layout=compact&langs_count=7&theme=dark"/>
-</div>  
+## 💼 Experiência
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guih-henriqueee&theme=github-compact)
+- Gestão de projetos de integração de sistemas, automação de processos e otimização de fluxos operacionais  
+- Sustentação de integrações entre SAP B1, Skill Triple One, Addons, Marketplaces, HUBs e ERPs via APIs REST  
+- Desenvolvimento com Python, Java, JavaScript (Node.js, React), TypeScript  
+- Trabalhos com MySQL, PostgreSQL, HANA DB, MariaDB e MongoDB  
+- QA e testes de sistemas, garantindo estabilidade das soluções  
+- Treinamentos técnicos e operacionais  
 
+---
 
-## 🌎 Conecte-se Comigo  
+## 🌐 Conecte-se Comigo  
+
 <p align="center">  
-  <a href="https://linkedin.com/in/guih-henriquee" target="blank">  
+  <a href="https://linkedin.com/in/guih-henriquee" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>  
   </a>  
   <a href="mailto:gmartinsdevelop@gmail.com">  

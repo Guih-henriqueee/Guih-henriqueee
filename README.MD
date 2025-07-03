@@ -1,9 +1,7 @@
 <h1 align="center">👋 Olá, eu sou Guilherme Martins!</h1>  
 <h3 align="center">👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas</h3>  
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=guih-henriqueee&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações do Perfil" />  
-</p>  
+ 
 
 ---
 

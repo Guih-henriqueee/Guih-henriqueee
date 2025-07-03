@@ -120,9 +120,7 @@ Fluxo fiscal, operações multi-filiais, integração com operadores logísticos
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih-henriqueee&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=guih-henriqueee&theme=dark" alt="GitHub Streak" />
-</div>  
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guih-henriqueee&theme=github-compact)
 
 
 ## 🌎 Conecte-se Comigo  

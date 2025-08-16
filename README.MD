@@ -1,24 +1,32 @@
-<h1 align="center">👋 Olá, eu sou Guilherme Martins!</h1>  
-<h3 align="center">👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas</h3>  
+# 👋 Olá, eu sou Guilherme Martins!
+### 👨🏽‍💻 Desenvolvedor Full Stack | 📊 Analista de Sistemas | 🧠 Founder
 
- 
+## 🚀 Sobre Mim
 
----
+Desenvolvedor em transição com background sólido em **ERP** e **Integração de Sistemas**.
 
-## 🚀 Sobre Mim  
+Sou movido por desafios que combinam **visão analítica**, **criatividade** e **soluções escaláveis**. Após mais de 3 anos atuando com SAP Business One, automação de processos, suporte técnico e projetos de integração entre Marketplaces, HUBs e ERPs, direcionei minha jornada profissional para o **desenvolvimento de software**, área que conecta propósito, aprendizado contínuo e inovação.
 
-Sou Líder de Projetos de Integração de Sistemas, com sólida experiência em SAP Business One, automação de processos, desenvolvimento de software e sustentação de integrações entre Marketplaces, HUBs e ERPs. Especialista em suporte técnico e customização de SAP B1, Skill Triple One e Addons, focado em eficiência operacional, escalabilidade e otimização de processos empresariais.
+Hoje atuo na **Okser**, uma consultoria especializada em **SAP Business One e desenvolvimento de customizações**, trabalhando na área de **engajamento e levantamento de requisitos**, fazendo o pré-mapeamento de soluções e possíveis customizações junto aos clientes antes do fechamento de propostas comerciais.
 
-Atuo diretamente na gestão e validação de integrações, implementação de melhorias, testes de sistemas e treinamentos voltados a equipes técnicas e operacionais. Minha experiência abrange o desenvolvimento de soluções automatizadas, processamento e tratamento de dados, além de infraestrutura de sistemas — sempre com foco em tecnologia e estratégia de negócios.
+Em paralelo, **fundei a Rozz Inc.**, empresa voltada para **desenvolvimento de software**, que em breve também contará com uma vertente de **design e consultoria de branding/dev**, aplicando tecnologia, identidade e estratégia em projetos que geram valor real.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Anhembi Morumbi**, onde venho aprofundando meus conhecimentos para atuar como desenvolvedor **Full Stack**.
+### 🎯 Experiência Técnica
+- Gestão de integrações com **SAP Business One**, **Skill Triple One**, Addons e APIs REST (Marketplaces e ERPs)
+- Desenvolvimento de soluções com **Python**, **Java**, **JavaScript (Node.js e React)** e **TypeScript**
+- Manipulação de bancos de dados: **MySQL**, **PostgreSQL**, **HANA DB**, **MongoDB** e **MariaDB**
+- Criação de **dashboards internos**, sistemas de controle e aplicações de monitoramento
+- Atuação com **testes, QA**, validação de sistemas e **suporte técnico especializado**
+- Experiência com operações **logísticas**, **multi-filiais** e **e-commerce B2C**
+- Experiência com **MARIProject** para gestão de projetos integrada ao SAP Business One
+
+Atualmente, meu foco está em consolidar minha carreira como desenvolvedor, aproveitando a oportunidade de atuar em uma organização voltada para **consultoria e sistemas**, como a **Okser**, e expandindo minhas habilidades para construir soluções que realmente impactem os negócios.
 
 ### 🔍 Curiosidades
-
-- Comecei na Inpower como **Atendente de SAC**, com o sonho de ser Web Designer.  
-- A vida me levou à programação — hoje, luto contra pontos e vírgulas com paixão!  
-- **Designer e truqueiro** nas horas vagas.  
-- **Gamer nas madrugadas:** CS é minha terapia.
+- Minha trajetória começou no **atendimento ao cliente** (com o sonho de ser Web Designer)  
+- A vida me levou à programação — e hoje luto contra ponto e vírgula com orgulho 😄  
+- **Designer & truqueiro** nas horas vagas  
+- **Gamer nas madrugadas** – CS é minha terapia  
 
 ---
 
@@ -31,7 +39,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade An
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guih-henriqueee&layout=compact&langs_count=7&theme=dark"/>
 </a>
 
-</div>  
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guih-henriqueee&theme=github-compact" alt="Gráfico de Contribuições" />
@@ -71,10 +79,11 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade An
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🧪 Testes & APIs  
+### 🧪 Testes, APIs & Gestão de Projetos  
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/MARIProject-0A74DA?style=for-the-badge&logo=SAP&logoColor=white" />
 </p>
 
 ### ⚙️ DevOps & Infraestrutura  
@@ -100,13 +109,15 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade An
 - Gestão de projetos de integração de sistemas, automação de processos e otimização de fluxos operacionais  
 - Sustentação de integrações entre SAP B1, Skill Triple One, Addons, Marketplaces, HUBs e ERPs via APIs REST  
 - Desenvolvimento com Python, Java, JavaScript (Node.js, React), TypeScript  
-- Trabalhos com MySQL, PostgreSQL, HANA DB, MariaDB e MongoDB  
+- Criação de dashboards internos, sistemas de monitoramento e automações de dados  
 - QA e testes de sistemas, garantindo estabilidade das soluções  
+- Atuação na **análise de engajamento e levantamento de requisitos** na Okser (consultoria SAP Business One & desenvolvimento)  
+- Prestação de serviços em **desenvolvimento, design e rebranding** via **Rozz Inc.**  
 - Treinamentos técnicos e operacionais  
 
 ---
 
-## 🌐 Conecte-se Comigo  
+## 🌐 Conecte-se Comigo
 
 <p align="center">  
   <a href="https://linkedin.com/in/guih-henriquee" target="_blank">  
@@ -115,4 +126,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade An
   <a href="mailto:gmartinsdevelop@gmail.com">  
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
   </a>  
-</p>  
+  <a href="https://martins-develop.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>

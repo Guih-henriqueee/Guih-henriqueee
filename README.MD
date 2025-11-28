@@ -68,6 +68,9 @@ Atualmente, meu foco está em consolidar minha carreira como desenvolvedor, apro
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui&logoColor=fff" />
+<img src="https://img.shields.io/badge/.NET-FFF?style=for-the-badge&logo=dotnet&logoColor=512BD4" />
+
 </p>
 
 ### 🗄️ Banco de Dados  
